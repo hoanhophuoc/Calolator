@@ -1,0 +1,68 @@
+{
+    "1000": [
+        {
+            "Breakfast": [
+                {
+                    "food": "Savory Crêpes",
+                    "serving": "1 serving"
+                },
+                {
+                    "food": "Oranges",
+                    "serving": "1 fruit"
+                }
+            ],
+            "Lunch": [
+                {
+                    "food": "Almonds and Blueberries Yogurt Snack",
+                    "serving": "1 serving"
+                },
+                {
+                    "food": "Veggies with Hummus",
+                    "serving": "1 serving"
+                }
+            ],
+            "Dinner": [
+                {
+                    "food": "Caprese chicken",
+                    "serving": "1 serving"
+                },
+                {
+                    "food": "Cabbage Cucumber Salad",
+                    "serving": "1 serving"
+                }
+            ]
+        },
+        {
+            "Breakfast": [
+                {
+                    "food": "Very Green Veggie Protein Smoothie",
+                    "serving": "1 serving"
+                },
+                {
+                    "food": "Yogurt & Cantaloupe",
+                    "serving": "1 serving"
+                }
+            ],
+            "Lunch": [
+                {
+                    "food": "Cucumber Crab Sushi",
+                    "serving": "1 serving"
+                },
+                {
+                    "food": "Corn Thins and Avocado",
+                    "serving": "1 serving"
+                }
+            ],
+            "Dinner": [
+                {
+                    "food": "Baked Salmon with Dill",
+                    "serving": "1 serving"
+                },
+                {
+                    "food": "Fresh Jicama Salad",
+                    "serving": "1 serving"
+                }
+            ]
+        }
+    ]
+}
